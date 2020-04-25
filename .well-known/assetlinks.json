@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.rahul.championsofazeroth",
+    "sha256_cert_fingerprints":
+    ["B3:A5:BB:B9:2A:4A:FB:6B:16:93:08:70:48:C3:F0:C0:7F:04:89:F6:4E:CD:75:68:BA:0F:99:FE:46:F6:77:F3"]
+  }
+}]
